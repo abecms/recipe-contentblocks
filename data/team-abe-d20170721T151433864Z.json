@@ -1,0 +1,44 @@
+{
+  "name": "team",
+  "team": [
+    {
+      "name": "Nicolas",
+      "position": "CEO",
+      "linkedin": "http://www.google.com",
+      "photo": "http://www.lsa-conso.fr/mediatheque/0/2/5/000221520_74.jpg",
+      "photo_250x250": "http://www.lsa-conso.fr/mediatheque/0/2/5/000221520_74_250x250.jpg",
+      "photo_200x200": "http://www.lsa-conso.fr/mediatheque/0/2/5/000221520_74_200x200.jpg"
+    },
+    {
+      "name": "Greg",
+      "position": "CTO",
+      "linkedin": "http://www.google.com",
+      "photo": "https://www.biography.com/.image/t_share/MTE5NDg0MDU0NTIzODQwMDE1/steven-jobs-9354805-2-402.jpg",
+      "photo_200x200": "https://www.biography.com/.image/t_share/MTE5NDg0MDU0NTIzODQwMDE1/steven-jobs-9354805-2-402_200x200.jpg"
+    },
+    {
+      "name": "third person",
+      "position": "COO",
+      "linkedin": "",
+      "photo": "https://www.biography.com/.image/t_share/MTE5NDg0MDU0NTIzODQwMDE1/steven-jobs-9354805-2-402.jpg",
+      "photo_200x200": "https://www.biography.com/.image/t_share/MTE5NDg0MDU0NTIzODQwMDE1/steven-jobs-9354805-2-402_200x200.jpg"
+    },
+    {
+      "name": "fourth person",
+      "position": "CIO",
+      "linkedin": "",
+      "photo": "https://www.biography.com/.image/t_share/MTE5NDg0MDU0NTIzODQwMDE1/steven-jobs-9354805-2-402.jpg",
+      "photo_200x200": "https://www.biography.com/.image/t_share/MTE5NDg0MDU0NTIzODQwMDE1/steven-jobs-9354805-2-402_200x200.jpg"
+    }
+  ],
+  "abe_meta": {
+    "template": "team",
+    "link": "/team.html",
+    "createdDate": "2017-07-21T15:12:25.962Z",
+    "createdBy": "admin",
+    "updatedDate": "2017-07-21T15:14:33.864Z",
+    "updatedBy": "admin",
+    "status": "draft",
+    "complete": "100"
+  }
+}

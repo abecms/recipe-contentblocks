@@ -1,0 +1,27 @@
+{
+  "abe_meta": {
+    "template": "talks",
+    "link": "/talks.html",
+    "createdDate": "2017-07-21T15:25:14.836Z",
+    "createdBy": "admin",
+    "updatedDate": "2017-07-21T15:36:45.180Z",
+    "updatedBy": "admin",
+    "status": "draft",
+    "complete": "100"
+  },
+  "name": "talks",
+  "talk": [
+    {
+      "location": "France",
+      "cover": "https://www.biography.com/.image/t_share/MTE5NDg0MDU0NTIzODQwMDE1/steven-jobs-9354805-2-402.jpg",
+      "year": "2016",
+      "duration": "13:45",
+      "language": "French",
+      "title": "This is it",
+      "avatar": "https://www.biography.com/.image/t_share/MTE5NDg0MDU0NTIzODQwMDE1/steven-jobs-9354805-2-402.jpg",
+      "presenter": "Steve Jobs",
+      "description": "This is the <b>introduction</b>",
+      "video": ""
+    }
+  ]
+}

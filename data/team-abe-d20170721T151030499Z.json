@@ -1,0 +1,22 @@
+{
+  "abe_meta": {
+    "template": "team",
+    "link": "/team.html",
+    "createdDate": "2017-07-21T15:04:01.401Z",
+    "createdBy": "admin",
+    "updatedDate": "2017-07-21T15:10:30.499Z",
+    "updatedBy": "admin",
+    "status": "draft",
+    "complete": "100"
+  },
+  "name": "team",
+  "team": [
+    {
+      "name": "Nicolas",
+      "position": "CEO",
+      "linkedin": "http://www.google.com",
+      "photo": "http://www.lsa-conso.fr/mediatheque/0/2/5/000221520_74.jpg",
+      "photo_250x250": "http://www.lsa-conso.fr/mediatheque/0/2/5/000221520_74_250x250.jpg"
+    }
+  ]
+}

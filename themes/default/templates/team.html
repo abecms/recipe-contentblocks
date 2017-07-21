@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+<html class="no-js"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>TEDxCannes – Équipe</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+		<meta property="og:image" content="http://tedxcannes.com/img/video-16-speaker-luciole.jpg">
+
+
+        <link rel="stylesheet" href="/assets/73e0a787c603a6d48bd91d7484dfe372.css">
+        
+  
+        
+    </head>
+    <body cz-shortcut-listen="true">
+
+<section class="content-page" id="speakers-content-section">
+  <div class="content-wrapper team-content padding">
+    <div class="content-header">
+      <h1 class="page-title">
+        L'équipe
+      </h1>
+    </div>
+  </div>
+  <div class="content-wrapper team-content">
+    <ul class="team-items primary group">
+      {{#each team}}
+      <li class="team-item group">
+        <div class="info-side">
+          <h4 class="name">
+            {{abe type='text' key='team.name' desc='name' tab='default' reload='true'}}
+            <small class="funtion">
+              {{abe type='text' key='team.position' desc='position' tab='default' reload='true'}}
+            </small>
+          </h4>
+          {{#if linkedin}}
+          <div class="links">
+            <a class="linkedin-link" href="{{abe type='text' key='team.linkedin' desc='linkedin' tab='default' reload='true'}}" target="_blank">
+              LinkedIn
+            </a>
+          </div>
+          {{/if}}
+        </div>
+        <div class="photo-side">
+          <img class="img-responsive" src="{{abe type='image' key='team.photo' desc='photo' thumbs='200x200' tab='default' reload='true'}}">
+        </div>
+        <div class="border"></div>
+      </li>
+      {{/each}}
+    </ul>
+  </div>
+</section>
+
+        <!-- <div class="modal-backdrop fade"></div> -->
+        
+        <script src="/assets/78acfaa5bfa6b6a861abcde559c1bf20.js"></script>
+
+</body></html>
