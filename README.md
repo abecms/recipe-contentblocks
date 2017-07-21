@@ -3,8 +3,14 @@ This recipe shows you how to create repetable blocks of content
 
 ![Screenshot](/site/screenshot.jpg?raw=true)
 
+# Installation
+1. git clone https://github.com/Abejs/recipe-contentblocks.git
+2. cd recipe-contentblocks
+3. abe serve
+4. open your browser at the address : http://localhost:3000/abe/editor
+5. Enjoy !
 
-## Introduction
+## Description
 Creating repetable blocks of content is quite easy. You'll find 2 examples inspired by http://tedxcannes.com/videos/2016/ and http://tedxcannes.com/equipe
 
 ## How to
