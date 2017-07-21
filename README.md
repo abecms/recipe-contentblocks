@@ -1,6 +1,9 @@
 # recipe-contentblocks
 This recipe shows you how to create repetable blocks of content
 
+![Screenshot](/site/screenshot.jpg?raw=true)
+
+
 ## Introduction
 Creating repetable blocks of content is quite easy. You'll find 2 examples inspired by http://tedxcannes.com/videos/2016/ and http://tedxcannes.com/equipe
 
