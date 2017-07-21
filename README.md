@@ -50,3 +50,6 @@ Then in the key of the abe tags included in the structure you'll create, you sta
 
 In this example, you can see that we use an ```{{#if linkedin}}```statement. Why didn't we used ```{{#if team.linkedin}}```?
 It's because of the way handlebars works: When you'll test and display values of content blocks, you'll have to remove the head attribute (don't use "team" here) because handlebars does it for you. In the Abe tags, however, you'll have to use this head value in your key attributes.
+
+### reload attribute
+This attribute is particularly useful in the case of content blocks: Every time the user add / modify /remove a block of content inside a repetable block of content, this attribute will reload the page so that she sees the change in real time. If you don't use this attribute, the user has to "draft" or publish the content to see the changes.
