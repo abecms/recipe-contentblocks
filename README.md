@@ -3,6 +3,10 @@ This recipe shows you how to create repetable blocks of content
 
 ![Screenshot](/site/screenshot.jpg?raw=true)
 
+## Video
+This video shows you how this project has been developed
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/HpguQvwVbsQ/0.jpg)](https://www.youtube.com/watch?v=HpguQvwVbsQ "Abe Recipe")
+
 # Installation
 1. git clone https://github.com/Abejs/recipe-contentblocks.git
 2. cd recipe-contentblocks
